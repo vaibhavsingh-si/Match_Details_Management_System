@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ull0qbnhL9QTj3MmQYI0leboiKPjId8D24FVtXp8/uVoi4jT2vfwGim7Dfba0TaQ4gao/bPxvysiXbQd8LMYBQ==",
+  "success": true,
+  "projectFilePath": "D:\\DotNet\\Match_Details_Management_System\\Match_Details_Management_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ranjeet.yadav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ranjeet.yadav\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ranjeet.yadav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ranjeet.yadav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
